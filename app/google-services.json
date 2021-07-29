@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "820648218151",
+    "firebase_url": "https://buslocator-3806b.firebaseio.com",
+    "project_id": "buslocator-3806b",
+    "storage_bucket": "buslocator-3806b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820648218151:android:df1596ba0779fab3",
+        "android_client_info": {
+          "package_name": "com.example.shovon.buslocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820648218151-jlnnolv1h81ru3lfmuskdej123bg2504.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6JRkFBE7AqybUBsbA7xnNL4V9xBas9-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
